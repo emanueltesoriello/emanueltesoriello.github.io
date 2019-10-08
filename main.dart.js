@@ -20257,29 +20257,29 @@ L:function(a){return new S.na(new X.j1(null),null)}}
 X.mI.prototype={
 aL:function(){return new X.G7(new N.bk(null,[M.hM]),C.r)}}
 X.G7.prototype={
-yH:function(){var u,t,s=this,r=null,q="Montserrat",p=s.d,o=p/38
-p=M.an(r,M.an(r,U.j5("web/assets/images/logo_black.png",C.m,r,r),r,r,r,p/19,r,r,r),r,r,r,r,new V.Y(o,o,p/45,0),r,r)
-o=s.d
+yH:function(){var u,t,s=this,r=null,q=s.d,p=q/38
+q=M.an(r,M.an(r,U.j5("web/assets/images/logo_black.png",C.m,r,r),r,r,r,q/19,r,r,r),r,r,r,r,new V.Y(p,p,q/45,0),r,r)
+p=s.d
 u=[N.bc]
-o=M.an(r,T.et(H.b([p,M.an(r,T.cP(H.b([L.bO("EMANUEL",r,A.b3(r,r,C.m,r,r,r,r,r,q,r,r,o/62,r,r,r,r,!0,r,r,r,r,r,r)),L.bO("TESORIELLO",r,A.b3(r,r,C.m,r,r,r,r,r,q,r,r,s.d/62,r,r,r,r,!0,r,r,r,r,r,r))],u),C.a5,C.H,C.y),r,r,r,r,new V.Y(0,o/38,0,0),r,r)],u),C.T,C.H,C.y),r,r,r,r,r,r,r)
-p=s.e
+p=M.an(r,T.et(H.b([q,M.an(r,T.cP(H.b([L.bO("EMANUEL",r,A.b3(r,r,C.m,r,r,r,r,r,r,r,r,p/62,r,r,r,r,!0,r,r,r,r,r,r)),L.bO("TESORIELLO",r,A.b3(r,r,C.m,r,r,r,r,r,r,r,r,s.d/62,r,r,r,r,!0,r,r,r,r,r,r))],u),C.a5,C.H,C.y),r,r,r,r,new V.Y(0,p/38,0,0),r,r)],u),C.T,C.H,C.y),r,r,r,r,r,r,r)
+q=s.e
 t=s.d
-return T.cP(H.b([o,M.an(r,B.Mt(C.m,L.Ms(C.hQ),t/25,new X.G9(s)),r,r,r,r,new V.Y(t/100,p/2.8,0,0),r,r)],u),C.a5,C.H,C.y)},
-L:function(a){var u,t,s,r,q,p,o,n,m,l,k,j,i=this,h=null,g="Montserrat",f=F.b6(a,!1).a,e=F.b6(a,!1).a
-i.d=f.a
-i.e=e.b
-e=P.dk(242,242,242,1)
-f=X.Dp(C.aq,L.Mz(A.b3(h,h,P.dk(0,129,175,1),h,h,h,h,h,h,h,h,20,h,h,h,h,!0,h,h,h,h,h,h)))
+return T.cP(H.b([p,M.an(r,B.Mt(C.m,L.Ms(C.hQ),t/25,new X.G9(s)),r,r,r,r,new V.Y(t/100,q/2.8,0,0),r,r)],u),C.a5,C.H,C.y)},
+L:function(a){var u,t,s,r,q,p,o,n,m,l,k,j,i=this,h=null,g=F.b6(a,!1).a,f=F.b6(a,!1).a
+i.d=g.a
+i.e=f.b
+f=P.dk(242,242,242,1)
+g=X.Dp(C.aq,L.Mz(A.b3(h,h,P.dk(0,129,175,1),h,h,h,h,h,h,h,h,20,h,h,h,h,!0,h,h,h,h,h,h)))
 u=i.d
 t=i.e
 u=M.an(h,i.yH(),h,h,h,t,h,h,u/4.5)
 t=i.d
 s=i.e
-r=L.bO("Who I am",3,A.b3(h,h,C.m,h,h,h,h,h,g,h,h,t/20,h,h,h,h,!0,h,h,h,h,h,h))
+r=L.bO("Who I am",3,A.b3(h,h,C.m,h,h,h,h,h,h,h,h,t/20,h,h,h,h,!0,h,h,h,h,h,h))
 q=i.e
 p=i.d
 o=[N.bc]
-t=M.an(h,T.cP(H.b([M.an(h,T.et(H.b([T.cP(H.b([r,new T.bN(h,q/20,h,h),M.an(h,L.bO("Since I was a child, I've always dreamed to work in the IT field in order to use my ideas and creativity.\nI loved computers and the way they changed our everyday life.\n\nCurrently I am a \u201cEngineering as Marketing\u201d developer specialized in web & mobile app development for IoT/Industry 4.0 world.\n\nMy favorite technologies are Google Flutter and GOlang, but I like to experiment new and innovative technologies, to increase my skills and my desire to innovate more and more!",h,A.b3(h,h,C.m,h,h,h,h,h,"Oswald",h,h,p/100+q/70,h,h,h,h,!0,h,h,h,h,h,h)),h,h,h,h,h,h,p-(p/4+p/3))],o),C.a5,C.H,C.y)],o),C.dV,C.H,C.y),h,h,h,h,new V.Y(0,s/4.5,0,0),h,h)],o),C.a5,C.H,C.y),h,h,h,s,h,h,t-(t/4.5+t/3))
+t=M.an(h,T.cP(H.b([M.an(h,T.et(H.b([T.cP(H.b([r,new T.bN(h,q/20,h,h),M.an(h,L.bO("Since I was a child, I've always dreamed to work in the IT field in order to use my ideas and creativity.\nI loved computers and the way they changed our everyday life.\n\nCurrently I am a \u201cEngineering as Marketing\u201d developer specialized in web & mobile app development for IoT/Industry 4.0 world.\n\nMy favorite technologies are Google Flutter and GOlang, but I like to experiment new and innovative technologies, to increase my skills and my desire to innovate more and more!",h,A.b3(h,h,C.m,h,h,h,h,h,h,h,h,p/100+q/70,h,h,h,h,!0,h,h,h,h,h,h)),h,h,h,h,h,h,p-(p/4+p/3))],o),C.a5,C.H,C.y)],o),C.dV,C.H,C.y),h,h,h,h,new V.Y(0,s/4.5,0,0),h,h)],o),C.a5,C.H,C.y),h,h,h,s,h,h,t-(t/4.5+t/3))
 s=i.d
 p=i.e
 q=s/65
@@ -20294,7 +20294,7 @@ k=P.dk(33,150,243,0.8).a
 k=P.aI(C.z.aq(178.5),(16711680&k)>>>16,(65280&k)>>>8,(255&k)>>>0)
 j=P.dk(33,150,243,1).a
 l=S.im(h,h,h,h,T.xD(C.h6,H.b([k,P.aI(204,(16711680&j)>>>16,(65280&j)>>>8,(255&j)>>>0)],[P.D]),C.h7,l,C.bv),h,C.K)
-return M.Nd(e,T.fv(C.aV,H.b([K.KW(T.M5(T.et(H.b([u,t,M.an(h,T.cP(H.b([r,q,M.an(C.O,L.bO("Contact me",h,A.b3(h,h,C.k,h,h,h,h,h,g,h,h,i.d/75,h,C.at,h,h,!0,h,h,h,h,h,h)),h,h,l,h,h,new V.Y(0,m,0,m),n/5)],o),C.T,C.db,C.y),h,h,h,p,h,h,s/3)],o),C.T,C.H,C.y),h,new X.Cn()),f,!0)],o),C.dv),new X.iv("home",h),i.f)},
+return M.Nd(f,T.fv(C.aV,H.b([K.KW(T.M5(T.et(H.b([u,t,M.an(h,T.cP(H.b([r,q,M.an(C.O,L.bO("Contact me",h,A.b3(h,h,C.k,h,h,h,h,h,h,h,h,i.d/75,h,C.at,h,h,!0,h,h,h,h,h,h)),h,h,l,h,h,new V.Y(0,m,0,m),n/5)],o),C.T,C.db,C.y),h,h,h,p,h,h,s/3)],o),C.T,C.H,C.y),h,new X.Cn()),g,!0)],o),C.dv),new X.iv("home",h),i.f)},
 $aa4:function(){return[X.mI]}}
 X.G9.prototype={
 $0:function(){P.LA("Hamburger menu pressed")
@@ -20328,28 +20328,28 @@ $aa4:function(){return[X.j1]}}
 X.mJ.prototype={
 aL:function(){return new X.G8(new N.bk(null,[M.hM]),C.r)}}
 X.G8.prototype={
-BY:function(){var u,t=this,s=null,r="Montserrat",q=t.d,p=t.e
-q=M.an(s,U.j5("web/assets/images/logo_black.png",s,C.aW,p/18),s,s,s,s,new V.Y(q/38,p/45,q/50,0),s,s)
-p=t.e
-u=[N.bc]
-p=T.et(H.b([q,M.an(s,T.cP(H.b([L.bO("EMANUEL",s,A.b3(s,s,C.m,s,s,s,s,s,r,s,s,p/70,s,s,s,s,!0,s,s,s,s,s,s)),L.bO("TESORIELLO",s,A.b3(s,s,C.m,s,s,s,s,s,r,s,s,t.e/70,s,s,s,s,!0,s,s,s,s,s,s))],u),C.a5,C.H,C.y),s,s,s,s,new V.Y(0,p/40,0,0),s,s)],u),C.T,C.H,C.y)
+BY:function(){var u,t=this,s=null,r=t.d,q=t.e
+r=M.an(s,U.j5("web/assets/images/logo_black.png",s,C.aW,q/18),s,s,s,s,new V.Y(r/38,q/45,r/50,0),s,s)
 q=t.e
-return T.et(H.b([p,M.an(s,B.Mt(C.m,L.Ms(C.hQ),t.d/20,new X.Ga(t)),s,s,s,s,new V.Y(0,q/45,0,0),s,s)],u),C.T,C.db,C.y)},
-L:function(a){var u,t,s,r,q,p,o,n,m,l=this,k=null,j="Montserrat",i=F.b6(a,!1).a,h=F.b6(a,!1).a
-l.d=i.a
-l.e=h.b
-h=P.dk(242,242,242,1)
-i=X.Dp(C.aq,L.Mz(A.b3(k,k,P.dk(0,129,175,1),k,k,k,k,k,k,k,k,20,k,k,k,k,!0,k,k,k,k,k,k)))
+u=[N.bc]
+q=T.et(H.b([r,M.an(s,T.cP(H.b([L.bO("EMANUEL",s,A.b3(s,s,C.m,s,s,s,s,s,s,s,s,q/70,s,s,s,s,!0,s,s,s,s,s,s)),L.bO("TESORIELLO",s,A.b3(s,s,C.m,s,s,s,s,s,s,s,s,t.e/70,s,s,s,s,!0,s,s,s,s,s,s))],u),C.a5,C.H,C.y),s,s,s,s,new V.Y(0,q/40,0,0),s,s)],u),C.T,C.H,C.y)
+r=t.e
+return T.et(H.b([q,M.an(s,B.Mt(C.m,L.Ms(C.hQ),t.d/20,new X.Ga(t)),s,s,s,s,new V.Y(0,r/45,0,0),s,s)],u),C.T,C.db,C.y)},
+L:function(a){var u,t,s,r,q,p,o,n,m,l=this,k=null,j=F.b6(a,!1).a,i=F.b6(a,!1).a
+l.d=j.a
+l.e=i.b
+i=P.dk(242,242,242,1)
+j=X.Dp(C.aq,L.Mz(A.b3(k,k,P.dk(0,129,175,1),k,k,k,k,k,k,k,k,20,k,k,k,k,!0,k,k,k,k,k,k)))
 u=l.d
 t=l.e
 u=M.an(k,l.BY(),k,k,k,t/16,k,k,u)
 t=l.d
 s=l.e
-r=L.bO("Who I am",3,A.b3(k,k,C.m,k,k,k,k,k,j,k,k,t/15,k,k,k,k,!0,k,k,k,k,k,k))
+r=L.bO("Who I am",3,A.b3(k,k,C.m,k,k,k,k,k,k,k,k,t/15,k,k,k,k,!0,k,k,k,k,k,k))
 q=l.e
 p=l.d
 o=[N.bc]
-t=T.et(H.b([M.an(k,new T.dY(C.O,k,k,M.an(k,T.cP(H.b([r,new T.bN(k,q/35,k,k),M.an(k,L.bO("Since I was a child, I've always dreamed to work in the IT field in order to use my ideas and creativity.\nI loved computers and the way they changed our everyday life.\n\nCurrently I am a \u201cEngineering as Marketing\u201d developer specialized in web & mobile app development for IoT/Industry 4.0 world.\n\nMy favorite technologies are Google Flutter and GOlang, but I like to experiment new and innovative technologies, to increase my skills and my desire to innovate more and more!",k,A.b3(k,k,C.m,k,k,k,k,k,"Oswald",k,k,q/30,k,k,k,k,!0,k,k,k,k,k,k)),k,k,k,k,k,k,p/1.4)],o),C.a5,C.da,C.y),k,k,k,k,new V.Y(t/38,0,0,0),k,k),k),k,k,k,s-2*(s/16),k,k,t/1.3)],o),C.T,C.db,C.y)
+t=T.et(H.b([M.an(k,new T.dY(C.O,k,k,M.an(k,T.cP(H.b([r,new T.bN(k,q/35,k,k),M.an(k,L.bO("Since I was a child, I've always dreamed to work in the IT field in order to use my ideas and creativity.\nI loved computers and the way they changed our everyday life.\n\nCurrently I am a \u201cEngineering as Marketing\u201d developer specialized in web & mobile app development for IoT/Industry 4.0 world.\n\nMy favorite technologies are Google Flutter and GOlang, but I like to experiment new and innovative technologies, to increase my skills and my desire to innovate more and more!",k,A.b3(k,k,C.m,k,k,k,k,k,k,k,k,q/30,k,k,k,k,!0,k,k,k,k,k,k)),k,k,k,k,k,k,p/1.4)],o),C.a5,C.da,C.y),k,k,k,k,new V.Y(t/38,0,0,0),k,k),k),k,k,k,s-2*(s/16),k,k,t/1.3)],o),C.T,C.db,C.y)
 s=l.d
 p=l.e
 q=s/90
@@ -20358,7 +20358,7 @@ n=P.dk(33,150,243,0.8).a
 n=P.aI(C.z.aq(178.5),(16711680&n)>>>16,(65280&n)>>>8,(255&n)>>>0)
 m=P.dk(33,150,243,1).a
 r=S.im(k,k,k,k,T.xD(C.h6,H.b([n,P.aI(204,(16711680&m)>>>16,(65280&m)>>>8,(255&m)>>>0)],[P.D]),C.h7,r,C.bv),k,C.K)
-return M.Nd(h,T.fv(C.aV,H.b([K.KW(T.cP(H.b([u,t,M.an(k,M.an(C.O,L.bO("Contact me",k,A.b3(k,k,C.k,k,k,k,k,k,j,k,k,l.e/35,k,C.at,k,k,!0,k,k,k,k,k,k)),k,k,r,k,k,new V.Y(0,q,0,q),s),k,k,k,p/16,k,k,s)],o),C.T,C.H,C.y),i,!0)],o),C.dv),new X.iv("home",k),l.f)},
+return M.Nd(i,T.fv(C.aV,H.b([K.KW(T.cP(H.b([u,t,M.an(k,M.an(C.O,L.bO("Contact me",k,A.b3(k,k,C.k,k,k,k,k,k,k,k,k,l.e/35,k,C.at,k,k,!0,k,k,k,k,k,k)),k,k,r,k,k,new V.Y(0,q,0,q),s),k,k,k,p/16,k,k,s)],o),C.T,C.H,C.y),j,!0)],o),C.dv),new X.iv("home",k),l.f)},
 $aa4:function(){return[X.mJ]}}
 X.Ga.prototype={
 $0:function(){P.LA("Hamburger menu pressed")
@@ -20369,16 +20369,16 @@ $S:0}
 X.iv.prototype={
 aL:function(){return new X.F1(this.c,C.r)}}
 X.F1.prototype={
-ys:function(a){var u,t,s,r=this,q=null,p="Montserrat",o=r.d,n=P.dk(33,150,243,1),m=r.d,l=m/38
-m=M.an(q,U.j5("web/assets/images/logo_white.png",q,C.aW,m/19),q,q,q,q,new V.Y(l,l,m/45,0),q,q)
-l=r.d
+ys:function(a){var u,t,s,r=this,q=null,p=r.d,o=P.dk(33,150,243,1),n=r.d,m=n/38
+n=M.an(q,U.j5("web/assets/images/logo_white.png",q,C.aW,n/19),q,q,q,q,new V.Y(m,m,n/45,0),q,q)
+m=r.d
 u=[N.bc]
-l=T.et(H.b([M.an(q,T.et(H.b([m,M.an(q,T.cP(H.b([L.bO("EMANUEL",q,A.b3(q,q,C.k,q,q,q,q,q,p,q,q,l/62,q,q,q,q,!0,q,q,q,q,q,q)),L.bO("TESORIELLO",q,A.b3(q,q,C.k,q,q,q,q,q,p,q,q,r.d/62,q,q,q,q,!0,q,q,q,q,q,q))],u),C.a5,C.H,C.y),q,q,q,q,new V.Y(0,l/38,0,0),q,q)],u),C.T,C.H,C.y),q,q,q,q,q,q,q)],u),C.T,C.H,C.y)
-m=r.e
+m=T.et(H.b([M.an(q,T.et(H.b([n,M.an(q,T.cP(H.b([L.bO("EMANUEL",q,A.b3(q,q,C.k,q,q,q,q,q,q,q,q,m/62,q,q,q,q,!0,q,q,q,q,q,q)),L.bO("TESORIELLO",q,A.b3(q,q,C.k,q,q,q,q,q,q,q,q,r.d/62,q,q,q,q,!0,q,q,q,q,q,q))],u),C.a5,C.H,C.y),q,q,q,q,new V.Y(0,m/38,0,0),q,q)],u),C.T,C.H,C.y),q,q,q,q,q,q,q)],u),C.T,C.H,C.y)
+n=r.e
 t=r.d
-t=r.f==="home"?Q.Kt(new X.F3(),new T.dY(C.O,q,q,L.bO("About",q,A.b3(q,q,C.k,q,q,q,q,q,p,q,q,t/30,q,q,q,q,!0,q,q,q,q,q,q)),q)):Q.Kt(new X.F4(a),new T.dY(C.O,q,q,L.bO("Home",q,A.b3(q,q,C.k,q,q,q,q,q,p,q,q,t/30,q,q,q,q,!0,q,q,q,q,q,q)),q))
+t=r.f==="home"?Q.Kt(new X.F3(),new T.dY(C.O,q,q,L.bO("About",q,A.b3(q,q,C.k,q,q,q,q,q,q,q,q,t/30,q,q,q,q,!0,q,q,q,q,q,q)),q)):Q.Kt(new X.F4(a),new T.dY(C.O,q,q,L.bO("Home",q,A.b3(q,q,C.k,q,q,q,q,q,q,q,q,t/30,q,q,q,q,!0,q,q,q,q,q,q)),q))
 s=r.e/20
-return new T.bN(o*0.5,q,new Z.uR(M.an(q,T.cP(H.b([T.cP(H.b([l,new T.bN(q,m/8,q,q),t,new T.bN(q,s,q,q),new T.bN(q,s,q,q),Q.Kt(new X.F5(),new T.dY(C.O,q,q,L.bO("Contact",q,A.b3(q,q,C.k,q,q,q,q,q,p,q,q,r.d/30,q,q,q,q,!0,q,q,q,q,q,q)),q))],u),C.T,C.da,C.y)],u),C.T,C.H,C.y),n,q,q,q,q,q,q),q),q)},
+return new T.bN(p*0.5,q,new Z.uR(M.an(q,T.cP(H.b([T.cP(H.b([m,new T.bN(q,n/8,q,q),t,new T.bN(q,s,q,q),new T.bN(q,s,q,q),Q.Kt(new X.F5(),new T.dY(C.O,q,q,L.bO("Contact",q,A.b3(q,q,C.k,q,q,q,q,q,q,q,q,r.d/30,q,q,q,q,!0,q,q,q,q,q,q)),q))],u),C.T,C.da,C.y)],u),C.T,C.H,C.y),o,q,q,q,q,q,q),q),q)},
 L:function(a){var u=F.b6(a,!1).a,t=F.b6(a,!1).a
 this.d=u.a
 this.e=t.b
