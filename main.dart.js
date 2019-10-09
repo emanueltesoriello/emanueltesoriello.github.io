@@ -20788,24 +20788,25 @@ t=l.e
 u=M.ad(k,l.E0(),k,k,k,t/16,k,k,u)
 t=l.d
 s=l.e
-r=L.bI("Who I am",3,A.b3(k,k,C.k,k,k,k,k,k,j,k,k,t/18,k,k,k,k,!0,k,k,k,k,k,k))
-q=l.e
-p=l.d
-o=[N.b5]
-p=M.ad(k,T.bM(H.b([r,new T.bl(k,q/35,k,k),M.ad(k,L.bI("Since I was a child, I've always dreamed to work in the IT field in order to use my ideas and creativity.\nI loved computers and the way they changed our everyday life.\n\nCurrently I am a \u201cEngineering as Marketing\u201d developer specialized in web & mobile app development for IoT/Industry 4.0 world.\n\nMy favorite technologies are Google Flutter and GOlang, but I like to experiment new and innovative technologies, to increase my skills and my desire to innovate more and more!",k,A.b3(k,k,C.k,k,k,k,k,k,k,k,k,q/30,k,k,k,k,!0,k,k,k,k,k,k)),k,k,k,k,k,k,p/1.4)],o),C.a6,C.bu,C.t),k,k,k,k,new V.V(t/38,0,0,0),k,k)
-t=M.ad(k,new T.fa(C.a2,k,k,new E.Ds(C.z,!0,p,k),k),k,k,k,s-2*(s/16),new V.V(0,s/20,0,0),k,t/1.3)
+r=s/20
+q=L.bI("Who I am",3,A.b3(k,k,C.k,k,k,k,k,k,j,k,k,t/18,k,k,k,k,!0,k,k,k,k,k,k))
+p=l.e
+o=l.d
+n=[N.b5]
+o=M.ad(k,T.bM(H.b([q,new T.bl(k,p/35,k,k),M.ad(k,L.bI("Since I was a child, I've always dreamed to work in the IT field in order to use my ideas and creativity.\nI loved computers and the way they changed our everyday life.\n\nCurrently I am a \u201cEngineering as Marketing\u201d developer specialized in web & mobile app development for IoT/Industry 4.0 world.\n\nMy favorite technologies are Google Flutter and GOlang, but I like to experiment new and innovative technologies, to increase my skills and my desire to innovate more and more!",k,A.b3(k,k,C.k,k,k,k,k,k,k,k,k,p/30,k,k,k,k,!0,k,k,k,k,k,k)),k,k,k,k,k,k,o/1.4)],n),C.a6,C.bu,C.t),k,k,k,k,new V.V(t/38,0,0,0),k,k)
+t=M.ad(k,new T.fa(C.a2,k,k,new E.Ds(C.z,!0,o,k),k),k,k,k,s-2*(s/16)-r,new V.V(0,r,0,0),k,t/1.3)
 s=l.d
 r=l.e
-s=T.dh(H.b([t,M.ad(k,l.Aw(),k,k,k,r-2*(r/16),k,k,s-s/1.3)],o),C.J,C.dn,C.t)
+s=T.dh(H.b([t,M.ad(k,l.Aw(),k,k,k,r-2*(r/16),k,k,s-s/1.3)],n),C.J,C.dn,C.t)
 r=l.d
 t=l.e
 q=r/90
 p=H.b([0.1,0.9],[P.Y])
-n=P.d1(33,150,243,0.8).a
-n=P.aH(C.C.aq(178.5),(16711680&n)>>>16,(65280&n)>>>8,(255&n)>>>0)
+o=P.d1(33,150,243,0.8).a
+o=P.aH(C.C.aq(178.5),(16711680&o)>>>16,(65280&o)>>>8,(255&o)>>>0)
 m=P.d1(33,150,243,1).a
-p=S.iF(k,k,k,k,T.yv(C.hk,H.b([n,P.aH(204,(16711680&m)>>>16,(65280&m)>>>8,(255&m)>>>0)],[P.D]),C.hl,p,C.bG),k,C.N)
-return M.OA(h,T.fJ(C.b1,H.b([K.Mb(T.bM(H.b([u,s,M.ad(k,M.ad(C.a2,L.bI("Contact me",k,A.b3(k,k,C.l,k,k,k,k,k,j,k,k,l.e/35,k,C.Z,k,k,!0,k,k,k,k,k,k)),k,k,p,k,k,new V.V(0,q,0,q),r),k,k,k,t/16,k,k,r)],o),C.J,C.D,C.t),i,!0)],o),C.dD),new X.mw("home",k),l.f)},
+p=S.iF(k,k,k,k,T.yv(C.hk,H.b([o,P.aH(204,(16711680&m)>>>16,(65280&m)>>>8,(255&m)>>>0)],[P.D]),C.hl,p,C.bG),k,C.N)
+return M.OA(h,T.fJ(C.b1,H.b([K.Mb(T.bM(H.b([u,s,M.ad(k,M.ad(C.a2,L.bI("Contact me",k,A.b3(k,k,C.l,k,k,k,k,k,j,k,k,l.e/35,k,C.Z,k,k,!0,k,k,k,k,k,k)),k,k,p,k,k,new V.V(0,q,0,q),r),k,k,k,t/16,k,k,r)],n),C.J,C.D,C.t),i,!0)],n),C.dD),new X.mw("home",k),l.f)},
 $aa0:function(){return[X.nf]}}
 X.Ho.prototype={
 $0:function(){P.MR("Hamburger menu pressed")
