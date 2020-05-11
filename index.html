@@ -2,9 +2,47 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Emanuel Tesoriello</title>
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <meta name="description" content="A new Flutter project.">
+  <meta name="google-signin-client_id" content="764927214121-fj8ij26d2n4vdbeo0b09ns0h9906nr23.apps.googleusercontent.com">
+
+  <!-- iOS meta tags & icons -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="storm">
+  <link rel="apple-touch-icon" href="icons/Icon-192.png">
+
+  <!-- Favicon -->
+  <link rel="shortcut icon" type="image/png" href="favicon.png"/>
+
+  <title>storm</title>
+  <link rel="manifest" href="manifest.json">
 </head>
 <body>
+  <script src="https://www.gstatic.com/firebasejs/7.5.0/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/7.5.0/firebase-auth.js"></script>
+
+<script>
+  // Your web app's Firebase configuration
+  var firebaseConfig = {
+    apiKey: "AIzaSyBqlbARyGqPiTneQxCvmh2crOzea7xYLiE",
+    authDomain: "storm-17170.firebaseapp.com",
+    databaseURL: "https://storm-17170.firebaseio.com",
+    projectId: "storm-17170",
+    storageBucket: "storm-17170.appspot.com",
+    messagingSenderId: "764927214121",
+    appId: "1:764927214121:web:f071cee9c160bf7c955238",
+    measurementId: "G-CN7M1N13ZJ"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+  firebase.analytics();
+</script>
+  <!-- Other firebase SDKs/config here -->
+  <!-- This script installs service_worker.js to provide PWA functionality to
+       application. For more information, see:
+       https://developers.google.com/web/fundamentals/primers/service-workers -->
+
   <script src="main.dart.js" type="application/javascript"></script>
 </body>
 </html>
